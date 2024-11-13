@@ -46,7 +46,7 @@
 
 ---
 
-This README provides an overview of the data structure, goals, and key metrics for the project, helping team members understand the purpose and structure of the analysis.
+
 
 
 
